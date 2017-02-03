@@ -1,5 +1,5 @@
 # EZWhatsTheNumber
-***
+
 ## About EZWhatsTheNumber
 
 A simple application with Swift 3.0.  
