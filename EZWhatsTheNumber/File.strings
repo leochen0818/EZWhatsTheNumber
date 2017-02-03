@@ -1,0 +1,12 @@
+/* 
+  File.strings
+  EZWhatsTheNumber
+
+  Created by Leo on 2017/2/2.
+  Copyright © 2017年 Leo. All rights reserved.
+*/
+
+"MAIN_TITLE" = "What's the number?";
+"SUB_TITLE"  = "Guess a number between";
+"BTN_GUESS"  = "Guess";
+"BTN_RESET"  = "Reset";
