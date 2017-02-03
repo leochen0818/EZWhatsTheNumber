@@ -1,7 +1,5 @@
 # EZWhatsTheNumber
 
-## About EZWhatsTheNumber
-
 A simple application with Swift 3.0.  
 A simple game about guess the number from computer.
 
